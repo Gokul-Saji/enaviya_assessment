@@ -609,7 +609,11 @@ body {
     .three-column {
         grid-template-columns: repeat(3, 1fr);
     }
-}
+    .search-container {
+        margin-left: 0rem !important;
+    }
+    }
+
 
 
 @media (min-width: 1024px) {
